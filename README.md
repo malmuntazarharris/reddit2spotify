@@ -10,4 +10,3 @@ General Instructions:
 To-Do List:
 1. Create playlists from several different subreddits
 2. Populate links from subreddits that don't use the 'Fresh' standard 
-3. Make PEP8 compliant
